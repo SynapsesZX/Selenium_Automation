@@ -1,0 +1,301 @@
+1659537674097	geckodriver	INFO	Listening on 127.0.0.1:1113
+1659537677113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-gpu" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilekKgmrp"
+1659537677838	Marionette	INFO	Marionette enabled
+1659537677842	Marionette	INFO	Listening on port 1126
+Read port: 1126
+1659537678077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilekKgmrp\\search.json.mozlz4", (void 0)))
+JavaScript error: https://qa-h360-marketplace.softservetest.com/developer/static/main.js, line 4980: TypeError: undefined has no properties
+[Parent 4424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 4424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659537703349	Marionette	INFO	Stopped listening on port 1126
+[Parent 4424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659537738704	geckodriver	INFO	Listening on 127.0.0.1:1541
+1659537741727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-gpu" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileTuY662"
+1659537742081	Marionette	INFO	Marionette enabled
+1659537742085	Marionette	INFO	Listening on port 1555
+Read port: 1555
+1659537742263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileTuY662\\search.json.mozlz4", (void 0)))
+[Parent 20248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659537788682	Marionette	INFO	Stopped listening on port 1555
+[Parent 20248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659537801692	geckodriver	INFO	Listening on 127.0.0.1:1620
+1659537804711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilemTERIP"
+1659537805049	Marionette	INFO	Marionette enabled
+1659537805053	Marionette	INFO	Listening on port 1633
+Read port: 1633
+1659537805243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilemTERIP\\search.json.mozlz4", (void 0)))
+[Parent 19140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 19140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659537819421	Marionette	INFO	Stopped listening on port 1633
+[Parent 19140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659537884018	geckodriver	INFO	Listening on 127.0.0.1:1040
+1659537887048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofile8zptj1"
+1659537887389	Marionette	INFO	Marionette enabled
+1659537887392	Marionette	INFO	Listening on port 1055
+Read port: 1055
+1659537887580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofile8zptj1\\search.json.mozlz4", (void 0)))
+[Parent 19956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538150161	Marionette	INFO	Stopped listening on port 1055
+[Parent 19956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1E2xe"
+1659538106165	Marionette	INFO	Marionette enabled
+1659538106169	Marionette	INFO	Listening on port 1257
+Read port: 1257
+1659538106303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilek1E2xe\\search.json.mozlz4", (void 0)))
+[Parent 19624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538126546	Marionette	INFO	Stopped listening on port 1257
+[Parent 19624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659538204536	geckodriver	INFO	Listening on 127.0.0.1:1343
+1659538207557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofile4qsZO6"
+1659538207904	Marionette	INFO	Marionette enabled
+1659538207907	Marionette	INFO	Listening on port 1357
+Read port: 1357
+1659538208093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofile4qsZO6\\search.json.mozlz4", (void 0)))
+[Parent 23360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538241144	Marionette	INFO	Stopped listening on port 1357
+[Parent 23360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659538271208	geckodriver	INFO	Listening on 127.0.0.1:1424
+1659538274231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilejcy8B7"
+1659538274580	Marionette	INFO	Marionette enabled
+1659538274583	Marionette	INFO	Listening on port 1438
+Read port: 1438
+1659538274780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilejcy8B7\\search.json.mozlz4", (void 0)))
+[Parent 11476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 11476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659538310340	Marionette	INFO	Stopped listening on port 1438
+[Parent 11476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+filehGmtWc"
+1659538290400	Marionette	INFO	Marionette enabled
+1659538290403	Marionette	INFO	Listening on port 1492
+Read port: 1492
+1659538290605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilehGmtWc\\search.json.mozlz4", (void 0)))
+[Parent 22864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538383161	geckodriver	INFO	Listening on 127.0.0.1:1586
+1659538386188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileESK0fu"
+1659538386536	Marionette	INFO	Marionette enabled
+1659538386539	Marionette	INFO	Listening on port 1599
+Read port: 1599
+1659538386736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileESK0fu\\search.json.mozlz4", (void 0)))
+[Parent 21900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538397973	geckodriver	INFO	Listening on 127.0.0.1:1642
+1659538400994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileOWS52F"
+1659538401357	Marionette	INFO	Marionette enabled
+1659538401361	Marionette	INFO	Listening on port 1657
+Read port: 1657
+1659538401507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileOWS52F\\search.json.mozlz4", (void 0)))
+[Parent 12516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538410990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659538626380	geckodriver	INFO	Listening on 127.0.0.1:1862
+1659538629397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilerEx3KK"
+1659538629748	Marionette	INFO	Marionette enabled
+1659538629752	Marionette	INFO	Listening on port 1877
+Read port: 1877
+1659538629937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilerEx3KK\\search.json.mozlz4", (void 0)))
+[Parent 20464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659538641332	geckodriver	INFO	Listening on 127.0.0.1:1918
+1659538644351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilejA8GuV"
+1659538644706	Marionette	INFO	Marionette enabled
+1659538644711	Marionette	INFO	Listening on port 1932
+Read port: 1932
+1659538644895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilejA8GuV\\search.json.mozlz4", (void 0)))
+[Parent 16600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 16600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659538725945	geckodriver	INFO	Listening on 127.0.0.1:2024
+1659538728966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=1920,1080" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilekvyZ6i"
+1659538729323	Marionette	INFO	Marionette enabled
+1659538729327	Marionette	INFO	Listening on port 2037
+Read port: 2037
+1659538729515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilekvyZ6i\\search.json.mozlz4", (void 0)))
+[Parent 13664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 13664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659538762527	Marionette	INFO	Stopped listening on port 2037
+[Parent 13664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rt: 2091
+1659538744467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileLS0QKB\\search.json.mozlz4", (void 0)))
+[Parent 27288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Parent 27288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659538761013	Marionette	INFO	Stopped listening on port 2091
+[Parent 27288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659610923119	geckodriver	INFO	Listening on 127.0.0.1:34211
+1659610926131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=2560,1440" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilebbTv0L"
+1659610926820	Marionette	INFO	Marionette enabled
+1659610926824	Marionette	INFO	Listening on port 34223
+Read port: 34223
+1659610926932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofilebbTv0L\\search.json.mozlz4", (void 0)))
+1659610932743	Marionette	INFO	Stopped listening on port 34223
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659610938568	geckodriver	INFO	Listening on 127.0.0.1:34270
+1659610941615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=2560,1440" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileJVQsrD"
+1659610941928	Marionette	INFO	Marionette enabled
+1659610941931	Marionette	INFO	Listening on port 34282
+Read port: 34282
+1659610942016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileJVQsrD\\search.json.mozlz4", (void 0)))
+1659610949988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Parent 6088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659610951348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659611050058	Marionette	INFO	Stopped listening on port 34282
+9610959301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=2560,1440" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileiMuYW3"
+1659610959623	Marionette	INFO	Marionette enabled
+1659610959627	Marionette	INFO	Listening on port 34350
+Read port: 34350
+1659610959726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileiMuYW3\\search.json.mozlz4", (void 0)))
+1659610967923	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659610969218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659611050691	Marionette	INFO	Stopped listening on port 34350
+9610977187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "window-size=2560,1440" "--incognito" "-no-remote" "-profile" "C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileoDoxRi"
+1659610977494	Marionette	INFO	Marionette enabled
+1659610977497	Marionette	INFO	Listening on port 34418
+Read port: 34418
+1659610977585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OmerTo\\AppData\\Local\\Temp\\rust_mozprofileoDoxRi\\search.json.mozlz4", (void 0)))
+1659610985608	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Parent 21900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa-h360-marketplace.auth.us-west-2.amazoncognito.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659610986950	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659611051303	Marionette	INFO	Stopped listening on port 34418
